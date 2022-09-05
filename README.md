@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @careysprjd
 - 👀 I’m interested in Web and Apps
-- 🌱 I’m currently learning Javascript and Phyton
+- 🌱 I’m currently learning HTML5, CSS and Javascript
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
