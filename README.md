@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @careysprjd
 - 👀 I’m interested in Web and Apps
 - 🌱 I’m currently learning HTML5, CSS and Javascript
-<!-- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+- 📫 How to reach me on Instagram : @code.carey
+<!-- - 💞️ I’m looking to collaborate on ... -->
+
 
 <!---
 careysprjd/careysprjd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
