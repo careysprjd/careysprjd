@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @careysprjd
 - 👀 I’m interested in Web and Apps
 - 🌱 I’m currently learning HTML5, CSS and Javascript
-- 📫 How to reach me on Instagram : @code.carey
+- 📫 How to reach me : @code.carey
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 
